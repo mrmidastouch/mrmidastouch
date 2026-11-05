@@ -15,6 +15,7 @@ I spent three years selling in person with no AI at all: windows, roofing, cars.
 
 ## Portfolio
 
+- [Agent Governance Console](https://github.com/mrmidastouch/agent-governance-console): The governance layer for AI agent operations: approval queue, rate limits, audit log, kill switch.
 - [Agent Operations System](https://github.com/mrmidastouch/agent-operations-system): the operating system I designed to run my companies through an AI agent: structure, rules, verification, and a nightly self-audit.
 - [Midas Lead Intake](https://github.com/mrmidastouch/midas-lead-intake): an n8n workflow that takes agency leads from a form to an AI-drafted follow-up and a CRM row, built for Midas Marketing.
 - [Beat Pipeline](https://github.com/mrmidastouch/beat-pipeline): design of a twice-daily automated music pipeline: creation, producer-tag verification, rendering, and publishing to BeatStars and YouTube.
