@@ -15,8 +15,8 @@ I spent three years selling in person with no AI at all: windows, roofing, cars.
 
 ## Systems
 
-- [Agent Operations System](../agent-operations-system): the operating system I designed to run my companies through an AI agent.
-- [Midas Lead Intake](../midas-lead-intake): an n8n workflow that takes agency leads from a form to an AI-drafted follow-up and a CRM row.
-- [Beat Pipeline](../beat-pipeline): design of a twice-daily automated music pipeline, from creation to publishing.
+- [Agent Operations System](https://github.com/mrmidastouch/agent-operations-system): the operating system I designed to run my companies through an AI agent.
+- [Midas Lead Intake](https://github.com/mrmidastouch/midas-lead-intake): an n8n workflow that takes agency leads from a form to an AI-drafted follow-up and a CRM row.
+- [Beat Pipeline](https://github.com/mrmidastouch/beat-pipeline): design of a twice-daily automated music pipeline, from creation to publishing.
 
 LinkedIn: https://www.linkedin.com/in/razismail/
