@@ -8,10 +8,14 @@ Founder, Midas Marketing. I build and sell AI systems for local businesses, and 
 - **The Daily Paper**, a live local digital publication at [thedailypaper.net](https://thedailypaper.net)
 - **Social Stash**, a social media account brokerage I founded and run solo
 - **Treely Yours**, a TikTok Shop brand co-founded with Adam Abdelouahad, launched November 2026: idea to live storefront, products, website, and affiliate program in days
+- **GotCovered**, a scheduling system for delivery operators: set schedules that generate the week, a cover board, and operator-controlled fee rules. It began as a build for a real delivery operation and is being generalized for any shift-based operator. Demo live; the operator pilot is the next stage.
+- **FELT**, a host-run social casino platform I built: server-side ledger, host system, compliance-aware design.
 
 ## How I work
 
 I spent three years selling in person with no AI at all: windows, roofing, cars. For the past two years, I have run my operations through an agent system with rules, verification, and a nightly audit of its own work. My job is the structure that makes something that powerful reliable.
+
+Proof formats in this portfolio: working demos, case studies, and a published failure postmortem with the fix measured.
 
 ## Portfolio
 
@@ -23,6 +27,8 @@ I spent three years selling in person with no AI at all: windows, roofing, cars.
 - [SMB AI Front Desk](https://github.com/mrmidastouch/smb-ai-front-desk): system design: AI phone answering and front desk deployment for local businesses, built and deployed by Midas Marketing.
 - [Cosign](https://github.com/mrmidastouch/cosign): a creator marketplace for TikTok Shop, UGC, and Meta ads, in active development.
 - [Client Operations Systems](https://github.com/mrmidastouch/client-operations-systems): operations systems I design and run for clients: delivery automation, content pipelines, and reporting. Client details are confidential; the systems design is mine.
+- **Puzo's**: a full digital rebuild for a family restaurant: website, online ordering, Google and Apple business profiles, unified hours. The portfolio's flagship local business case study.
+- **Hustlers Club growth record**: a creator agency whose membership grew from 300 to 2,000 while I ran operations in a co-founder role.
 
 LinkedIn: https://www.linkedin.com/in/razismail/
 
